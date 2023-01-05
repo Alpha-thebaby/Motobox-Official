@@ -1,0 +1,56 @@
+{
+    "entity.vehicle.collision": {
+      "subtitle": "subtitles.motobox.collision",
+      "sounds": [
+        "motobox:collision"
+      ]
+    },
+  "entity.vehicle.landing": {
+    "subtitle": "subtitles.motobox.landing",
+    "sounds": [
+      "motobox:landing"
+    ]
+  },
+  "entity.vehicle.skid": {
+    "subtitle": "subtitles.motobox.skid",
+    "sounds": [
+      "motobox:skid"
+    ]
+  },
+  "entity.vehicle.stone_engine": {
+    "subtitle": "subtitles.motobox.vehicle_engine",
+    "sounds": [
+      "motobox:stone_engine"
+    ]
+  },
+  "entity.vehicle.motorbike_engine": {
+    "subtitle": "subtitles.motobox.vehicle_engine",
+    "sounds": [
+      "motobox:motorbike_engine"
+    ]
+  },
+  "entity.vehicle.truck_engine": {
+    "subtitle": "subtitles.motobox.vehicle_engine",
+    "sounds": [
+      "motobox:truck_engine"
+    ]
+  },
+  "entity.vehicle.gold_engine": {
+    "subtitle": "subtitles.motobox.vehicle_engine",
+    "sounds": [
+      "motobox:gold_engine"
+    ]
+  },
+  "entity.vehicle.diamond_engine": {
+    "subtitle": "subtitles.motobox.vehicle_engine",
+    "sounds": [
+      "motobox:diamond_engine"
+    ]
+  },
+  "entity.vehicle.creative_engine": {
+    "subtitle": "subtitles.motobox.vehicle_engine",
+    "sounds": [
+      "motobox:creative_engine"
+    ]
+  }
+}
