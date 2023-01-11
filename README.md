@@ -22,4 +22,3 @@
 - LStick - Steer left/right
 - RTrigger - Drift
 
-**Original mod** [[Automobility]](https://github.com/FoundationGames/Automobility)
